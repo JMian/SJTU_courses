@@ -1,2 +1,2 @@
-# SJTU_spring2021
-codes for SJTU courses in Spring 2021
+# SJTU_courses
+codes for SJTU courses
